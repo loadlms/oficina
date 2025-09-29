@@ -4,6 +4,32 @@
 
 Este é um template moderno e responsivo desenvolvido especialmente para oficinas mecânicas. O design foi criado com foco na conversão de visitantes em clientes, apresentando os serviços de forma profissional e facilitando o contato direto via WhatsApp.
 
+## ⚠️ **IMPORTANTE - TERMOS DE PERSONALIZAÇÃO**
+
+### 🎯 **Template de Demonstração**
+Este template é oferecido como uma **solução básica e acessível** para oficinas que desejam uma presença online profissional sem grandes investimentos.
+
+### 📝 **Personalizações Incluídas (SEM CUSTO ADICIONAL):**
+- ✅ Substituição de **todos os textos** entre `[colchetes]`
+- ✅ Inserção da **logo da empresa**
+- ✅ Atualização de **informações de contato**
+- ✅ Configuração do **Google Maps** com sua localização
+- ✅ Ajuste de **links das redes sociais**
+
+### 💰 **Alterações que Geram Custo Adicional:**
+- ❌ Mudanças no **design visual** (cores, layout, tipografia)
+- ❌ Novas **funcionalidades** ou recursos
+- ❌ Modificações na **estrutura** das seções
+- ❌ Alterações no **comportamento** dos elementos
+- ❌ Integração com **outras plataformas** além do WhatsApp
+- ❌ Customizações **avançadas** de CSS/JavaScript
+
+### 📋 **Política de Alterações:**
+1. **Personalizações básicas** estão incluídas no valor do template
+2. **Alterações complexas** serão orçadas separadamente
+3. **Prazo de entrega** das personalizações básicas: até 2 dias úteis
+4. **Suporte técnico** limitado às funcionalidades existentes
+
 ## ✨ Funcionalidades Principais
 
 ### 🎨 **Design Moderno e Responsivo**
@@ -157,14 +183,34 @@ oficina/
 - Formulário otimizado
 - Navegação simplificada
 
-## 📞 **Suporte e Personalização**
+## 📞 Suporte e Orçamentos
 
-Para solicitar alterações ou personalizações adicionais:
+### 🔧 **Para Personalizações Básicas (Incluídas):**
+- Envie os **textos** que deseja alterar (substitua os que estão entre `[colchetes]`)
+- Forneça a **logo** da empresa (formato PNG ou SVG)
+- Informe **dados de contato** (WhatsApp, email, endereço)
+- Envie **coordenadas** para o Google Maps
 
-1. **Textos e conteúdo** - Substitua os itens entre `[colchetes]`
-2. **Cores e design** - Solicite ajustes específicos
-3. **Funcionalidades extras** - Descreva as necessidades
-4. **Integração com outras plataformas** - WhatsApp, Instagram, etc.
+### 💼 **Para Alterações Complexas:**
+- Descreva **detalhadamente** as modificações desejadas
+- Solicite um **orçamento personalizado**
+- Aguarde análise de **viabilidade** e **prazo**
+
+### ⚡ **Suporte Técnico:**
+- Limitado às **funcionalidades existentes**
+- **Não inclui** desenvolvimento de novos recursos
+- **Não inclui** alterações de design
+
+**Contato**: [Seu contato para suporte]
+
+---
+
+## ⚖️ **Termos de Uso**
+
+✅ **Permitido**: Uso comercial do template após personalização básica  
+❌ **Não permitido**: Revenda do template ou código-fonte  
+📋 **Garantia**: Funcionalidades descritas neste documento  
+🔄 **Atualizações**: Não incluídas após entrega final
 
 ## 🚀 **Próximos Passos**
 
