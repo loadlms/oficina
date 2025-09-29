@@ -8,18 +8,18 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
 </head>
-<body>
+<body id="topo">
     <!-- Header -->
     <header class="header">
         <nav class="navbar">
             <div class="nav-container">
-                <div class="logo">
+                <a href="#topo" class="logo logo-clickable">
                     <i class="fas fa-cog"></i>
                     <span>[Sua Logo]</span>
-                </div>
+                </a>
                 <div class="nav-buttons">
                     <a href="#contato" class="btn-contact">Entre em Contato</a>
-                    <a href="https://instagram.com/lccambios" target="_blank" class="btn-instagram">
+                    <a href="https://instagram.com/" target="_blank" class="btn-instagram">
                         <i class="fab fa-instagram"></i>
                     </a>
                 </div>
@@ -147,15 +147,15 @@
                             <p>[Seu E-mail]</p>
                         </div>
                     </div>
-                    <div class="contact-item">
+                    <a href="#localizacao" class="contact-item contact-item-clickable">
                         <div class="contact-icon">
                             <i class="fas fa-map-marker-alt"></i>
                         </div>
                         <div class="contact-details">
                             <h3>Endereço</h3>
-                            <p>[Seu Endereço]<br>[Cidade - Estado]</p>
+                            <span class="click-hint">Clique para ver no mapa</span>
                         </div>
-                    </div>
+                    </a>
                     <div class="contact-item">
                         <div class="contact-icon">
                             <i class="fab fa-instagram"></i>
@@ -212,14 +212,54 @@
         </div>
     </section>
 
+    <!-- Localização -->
+    <section id="localizacao" class="location">
+        <div class="container">
+            <h2>Nossa Localização</h2>
+            <div class="location-content">
+                <div class="location-info">
+                    <div class="location-item">
+                        <div class="location-icon">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div class="location-details">
+                            <h3>Endereço Completo</h3>
+                            <p>[Seu Endereço Completo]<br>[Cidade - Estado - CEP]</p>
+                        </div>
+                    </div>
+                    <div class="location-item">
+                        <div class="location-icon">
+                            <i class="fas fa-clock"></i>
+                        </div>
+                        <div class="location-details">
+                            <h3>Horário de Funcionamento</h3>
+                            <p>Segunda à Sexta: 8h às 18h<br>Sábado: 8h às 12h</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="location-map">
+                    <iframe 
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.1975!2d-46.6333824!3d-23.5505199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5a2b2ed7f3a1%3A0xab35da2f5ca62674!2sSé%2C%20São%20Paulo%20-%20SP!5e0!3m2!1spt!2sbr!4v1635959999999!5m2!1spt!2sbr" 
+                        width="100%" 
+                        height="300" 
+                        style="border:0;" 
+                        allowfullscreen="" 
+                        loading="lazy" 
+                        referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
-                <div class="footer-logo">
+                <a href="#topo" class="footer-logo footer-logo-clickable">
                     <i class="fas fa-cog"></i>
                     <span>[Sua Logo]</span>
-                </div>
+                </a>
                 <p>&copy; 2025 [Nome da Sua Oficina]. Template personalizável.</p>
             </div>
         </div>
