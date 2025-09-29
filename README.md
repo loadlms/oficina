@@ -224,4 +224,4 @@ oficina/
 
 **Template desenvolvido com foco em conversão e experiência do usuário para oficinas mecânicas.**
 
-*Última atualização: Janeiro 2025*
+*Última atualização: Setembro 2025*
